@@ -1,0 +1,23 @@
+
+* {
+margin: 0;
+padding: 0;
+
+
+
+}
+
+.app {
+    background-color: #1d1d1d;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #1d1d1d;
+
+}
+
+a {
+    color: white;
+}
